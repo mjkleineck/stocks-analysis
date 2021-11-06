@@ -8,18 +8,18 @@
 ## Results
   
   ### Before Refactoring
-  ![2017 Before Refactoring](/blob/main/Resources/run_time_2017_before_refactoring.png)
+  ![2017 Before Refactoring](https://github.com/mjkleineck/stocks-analysis/blob/main/Resources/run_time_2017_before_refactoring.png)
   
-  ![2018 Before Refactoring](/blob/main/Resources/run_time_%202018_before_refactoring.png)
+  ![2018 Before Refactoring](https://github.com/mjkleineck/stocks-analysis/blob/main/Resources/run_time_%202018_before_refactoring.png)
   
-  ![Code Before Refactoring](/blob/main/Resources/code_before_refactoring.png)
+  ![Code Before Refactoring](https://github.com/mjkleineck/stocks-analysis/blob/main/Resources/code_before_refactoring.png)
   
   ### After Refactoring
-  ![2017 After Refactoring](/blob/main/Resources/run_time_2017_after_refactoring.png)
+  ![2017 After Refactoring](https://github.com/mjkleineck/stocks-analysis/blob/main/Resources/run_time_2017_after_refactoring.png)
   
-  ![2018 After Refactoring](/blob/main/Resources/run_time_2018_after_refactoring.png)
+  ![2018 After Refactoring](https://github.com/mjkleineck/stocks-analysis/blob/main/Resources/run_time_2018_after_refactoring.png)
   
-  ![Code After Refactoring](/blob/main/Resources/code_after_refactoring.png)
+  ![Code After Refactoring](https://github.com/mjkleineck/stocks-analysis/blob/main/Resources/code_after_refactoring.png)
   
   After refactoring, the program's run-time **decreased by nearly 80%**!
 
