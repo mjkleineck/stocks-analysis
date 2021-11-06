@@ -1,7 +1,7 @@
 # VBA Challenge
 
 ##  Project Overview
-  The VBA Challenge encompassed all of the concepts from Module 2, including for loops, conditionals, and nested for loops. These concepts will are critical to understand because they are all have similar structures in other programming languages. Just like how sentences have subjects, actions and descriptions across different spoken languages, programming languages have similar conceptual structure.
+  The VBA Challenge encompassed all of the concepts from Module 2, including for loops, conditionals, and nested for loops. These concepts will are critical to understand because they have similar structures in other programming languages. Just like how sentences have subjects, actions and descriptions across different spoken languages, programming languages have similar conceptual structure.
   
   The VBA Challenge also introduced the concept of refactoring. Refactoring is critical to programming as it is a method to improve the efficiency and resource utilization of programs. The following analysis explains how the code developed through Module 2 was refactored and the efficiency gained.
   
